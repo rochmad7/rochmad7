@@ -1,5 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rochmad7&theme=merko)
-" />
+(https://github-readme-stats.vercel.app/api?username=rochmad7&show_icons=true&theme=radical)
 
 <!--
 **rochmad7/rochmad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
