@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochmad7&theme=merko)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rochmad7&theme=merko)
 " />
 
 <!--
