@@ -1,4 +1,5 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochmad7&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochmad7&theme=merko&show_icons=true)
+" />
 
 <!--
 **rochmad7/rochmad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
