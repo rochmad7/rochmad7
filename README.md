@@ -16,6 +16,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -38,5 +39,3 @@
 <a href="mailto:rochmad.wa@gmail.com"><img src="https://img.shields.io/badge/-rochmad.wa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/rochmad.wa"><img src="https://img.shields.io/badge/-Rochmad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
------
