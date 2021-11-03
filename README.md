@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Rochmad Wahyu Aji</h2>
+<h2>👋 Hey there! I'm Rochmad Wahyu Aji</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rochmad Wahyu Aji -->
 
