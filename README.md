@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-####  👉 &nbsp;Tools
+####  👉 &nbsp;Others
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -49,5 +49,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/rochmad7"><img src="https://img.shields.io/badge/-Rochmad%20Wahyu%20Aji-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rochmad.wa@gmail.com"><img src="https://img.shields.io/badge/-rochmad.wa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/rochmad.wa"><img src="https://img.shields.io/badge/-Rochmad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
