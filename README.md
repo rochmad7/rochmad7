@@ -1,52 +1,39 @@
-<h2>👋 Hey there! I'm Rochmad Wahyu Aji</h2>
+# ROCHMAD WAHYU AJI
 
-<!-- ## 👋 &nbsp;Hey there! I'm Rochmad Wahyu Aji -->
+Backend Engineer specializing in Golang and Node.js microservices with 3 years of experience building scalable applications.
 
-### 👨🏻‍💻 &nbsp;About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochmad7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rochmad.wa@gmail.com)
 
-🎓 &nbsp;I'm currently studying Computer Science at Diponegoro University.\
-🌱 &nbsp;I'm on track for learning more about Backend Development using Node.js and Golang.\
-✍️ &nbsp;In my free time, I like to read novels and comics.
+## Skills
 
-### 🛠 &nbsp;Tech Stack
+### Languages
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
-####  👉 &nbsp;Programming Languages
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+### Technologies
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat)
+![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
+![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)
+![Event Sourcing](https://img.shields.io/badge/-Event_Sourcing-05122A?style=flat)
+![AI/LLM](https://img.shields.io/badge/-AI/LLM-05122A?style=flat)
 
-####  👉 &nbsp;Frameworks
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-
-####  👉 &nbsp;Databases
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-####  👉 &nbsp;Others
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-<a href="https://github.com/rochmad7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochmad7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochmad7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/rochmad7"><img src="https://img.shields.io/badge/-Rochmad%20Wahyu%20Aji-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rochmad.wa@gmail.com"><img src="https://img.shields.io/badge/-rochmad.wa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochmad7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochmad7&layout=compact&langs_count=8&theme=algolia"/>
 </p>
